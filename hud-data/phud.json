@@ -4,8 +4,7 @@
   "releaseDate": "2026-05-26",
   "distinguishedFromParent": false,
   "resources": [
-    "mainmenu_preview",
-    "ingame"
+    "phud-banner"
   ],
   "repo": "https://github.com/Pickleknotts/phud",
   "hash": "1f574112982a02c67a27c97c5581509b473dbc2a",
